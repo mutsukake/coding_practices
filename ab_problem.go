@@ -1,6 +1,6 @@
 package main
-import "fmt"
 
+import "fmt"
 
 func main() {
 	var a, b int
@@ -11,7 +11,7 @@ func main() {
 	d = a / b
 	fmt.Println(d)
 
-	r = a % b	
+	r = a % b
 	fmt.Println(r)
 
 	// f is float64 type
