@@ -33,7 +33,7 @@ func call(n int) {
 	fmt.Println()
 }
 
-func main() {
+func structured_programming() {
 	var n int
 	fmt.Scanln(&n)
 	call(n)
