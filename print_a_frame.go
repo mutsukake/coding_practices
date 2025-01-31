@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func print_a_frame() {
 	for {
 		var h, w int
 		fmt.Scanln(&h, &w)

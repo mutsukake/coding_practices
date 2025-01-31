@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func printChessboard() {
 	for {
 		var h, w int
 		fmt.Scanln(&h, &w)
